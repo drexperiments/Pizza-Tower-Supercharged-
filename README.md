@@ -12,3 +12,10 @@ Meant to be simple to use for both players and modders alike.
 ## License
 
 OvenInjector's custom code is under the MIT License. Due to the nature of GameMaker game decompilations, the main decompiled code is under CC0 inheriting from the OpenTower repository.
+
+## Credits:
+hayaunderscore:Creator of OvenInjector,
+Loypoll:made Noise update decompilation for us to use 
+
+ 
+
